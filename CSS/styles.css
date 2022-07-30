@@ -1,0 +1,32 @@
+/************TAG SELECTORS*************/
+
+h1 {
+    color: red;
+    font-size: 200px;
+  }
+
+
+img:hover {
+  background-color: gold;
+}
+
+/* when you apply hover to the background color it changes it to whatever color you set it to be */
+
+/********** CLASS SELECTORS*********/
+
+.bacon {
+  background-color: green;
+}
+
+.burrito {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/********** ID SELECTORS*********/
+
+#heading {
+  color: blue
+}
